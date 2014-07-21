@@ -1,0 +1,17 @@
+{
+  "name": "web-colors",
+  "version": "0.0.0",
+  "description": "get web colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "web-colors"
+  ],
+  "author": "gage bachik",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.37.0"
+  }
+}
